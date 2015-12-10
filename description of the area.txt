@@ -1,0 +1,6 @@
+I downloaded a preselected map in OSM XML format for Kyiv, Ukraine (Ukrainian name ‘Êè¿â’). 
+I live in this city so I chose to process the OpenStreetMap data for it. 
+The size of the uncompressed file is 244MB.
+
+The link to the file https://s3.amazonaws.com/metro-extracts.mapzen.com/kyiv_ukraine.osm.bz2
+The link to the webpage https://mapzen.com/data/metro-extracts

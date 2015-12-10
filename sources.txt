@@ -1,0 +1,64 @@
+This file contains the list of sources used in the course and project
+
+
+XML
+http://www.w3schools.com/xml/xml_whatis.asp
+
+Beautiful Soup
+http://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+Sets and unique values in python
+http://stackoverflow.com/questions/12897374/get-unique-values-from-a-list-in-python
+https://docs.python.org/2/library/sets.html
+
+MongoDB import CSV
+http://docs.mongodb.org/manual/reference/program/mongoimport/#csv-import
+
+
+Strange output in MongoDB aggregate
+http://stackoverflow.com/questions/30333020/mongodb-pymongo-aggregate-gives-strange-output-something-about-cursor
+
+
+MongoDB: How do we test for the existence of a field?
+http://stackoverflow.com/questions/9790878/mongodb-not-equal-to
+
+Python: Check the existence of attribute
+http://stackoverflow.com/questions/9748678/which-is-the-best-way-to-check-for-the-existence-of-an-attribute
+
+Python: list
+https://docs.python.org/2/tutorial/datastructures.html
+
+Python: sort dicts
+http://stackoverflow.com/questions/9001509/how-can-i-sort-a-dictionary-by-key
+http://bytesizebio.net/2013/04/03/stupid-python-tricks-3296-sorting-a-dictionary-by-its-values/
+
+Python: write in unicode format
+http://stackoverflow.com/questions/6048085/python-write-unicode-text-to-a-text-file
+
+Python: pass statement
+http://www.tutorialspoint.com/python/python_pass_statement.htm
+
+Python: csv reader
+https://docs.python.org/2/library/csv.html
+http://www.pythonforbeginners.com/systems-programming/using-the-csv-module-in-python/
+http://stackoverflow.com/questions/4787723/python-3-2-skip-a-line-in-csv-dictreader
+
+Python: conversion to float
+http://stackoverflow.com/questions/354038/how-do-i-check-if-a-string-is-a-number-float-in-python
+
+Python: regular expressions to check non-arithmetic characters
+http://stackoverflow.com/questions/10944438/how-do-i-check-if-a-string-only-contains-alphanumeric-characters-and-dashes
+http://stackoverflow.com/questions/6053541/regex-every-non-alphanumeric-character-except-white-space-or-colon
+
+
+Python: Defaultdict
+https://docs.python.org/2/library/collections.html#collections.defaultdict
+http://stackoverflow.com/questions/2768188/iterating-over-key-and-value-of-defaultdict-dictionaries
+
+OpentStreetMap
+http://wiki.openstreetmap.org/wiki/Way
+http://wiki.openstreetmap.org/wiki/Highways
+
+Kyiv streets (in Ukrainian)
+http://kga.gov.ua/images/dovidnyk-vul/dovidnykvyl.pdf 
+https://uk.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%B8%D1%86%D1%96_%D0%9A%D0%B8%D1%94%D0%B2%D0%B0
